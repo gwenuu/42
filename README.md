@@ -1,4 +1,4 @@
-# About Me
+# My 42 Projects
 
 I completed the Piscine (entry selection test) at **42 Vienna**, an intensive coding bootcamp focused on peer-to-peer learning and project-based problem solving. If admitted to the core curriculum, I'll be sharing my project work here.
 
